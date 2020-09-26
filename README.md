@@ -1,5 +1,5 @@
-# MEDICAL WEBSITES
-Những websites hữu ích dành cho việc học tập tại trường Y.
+# MEDICAL SITES
+hững trang thông tin hữu ích dành cho việc học tập y khoa.
 
 |Website|Miêu tả|
 |-------|-------|
