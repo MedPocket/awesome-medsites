@@ -1,6 +1,6 @@
 Danh sách các trang web hữu ích về y khoa.
 
-## Nội dung
+## Mục lục
 
 - [Tổng hợp](#tổng-hợp)
 - [Sản](#sản)
