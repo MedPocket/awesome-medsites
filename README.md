@@ -1,9 +1,13 @@
-# MEDICAL SITES
-> Những trang thông tin hữu ích dành cho việc học tập y khoa.
+Danh sách các trang web hữu ích về y khoa.
 
-|Website|Miêu tả|
-|-------|-------|
-|[MSD](https://www.msdmanuals.com/vi)|Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899|
-|[Từ điển Phác đồ chữa bệnh](https://phacdochuabenh.com/tu-dien-y-hoc/tratu.php)|Từ điển Anh Việt Y khoa|
-|[Từ điển Y khoa Medisoft](http://medisoft.com.vn/medic.asp)|Từ điển Y khoa của Medisoft|
-|[Từ điển Y khoa HMU](https://hmu.edu.vn/news/dict.aspx)|Từ điển Y khoa của Y Hà Nội|
+## Nội dung
+- [Tổng hợp](#tong-hop)
+- [Từ điển Y khoa](#tu-dien-y-khoa)
+
+## Tổng hợp
+- [MSD](https://www.msdmanuals.com/vi) - Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899.
+
+## Từ điển Y khoa
+- [Từ điển Y khoa HMU](https://hmu.edu.vn/news/dict.aspx) - Từ điển Anh Việt Y khoa của Y Hà Nội.
+- [Từ điển Y khoa Medisoft](http://medisoft.com.vn/medic.asp) - Từ điển Anh Việt Y khoa của Medisoft.
+- [Từ điển Y khoa Phác đồ chữa bệnh](https://phacdochuabenh.com/tu-dien-y-hoc/tratu.php) - Từ điển Anh Việt Y khoa.
