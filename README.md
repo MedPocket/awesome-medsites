@@ -2,9 +2,9 @@ Danh sách các trang web hữu ích về y khoa.
 
 ## Nội dung
 
-- [Tổng hợp](#tong-hop)
-- [Sản](#san)
-- [Từ điển Y khoa](#tu-dien-y-khoa)
+- [Tổng hợp](#tổng-hợp)
+- [Sản](#sản)
+- [Từ điển Y khoa](#từ-điển-y-khoa)
 
 ## Tổng hợp
 
