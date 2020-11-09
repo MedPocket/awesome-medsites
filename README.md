@@ -10,6 +10,7 @@ Danh sách các trang web hữu ích về y khoa.
 
 - [Điều trị](https://www.dieutri.vn) - Điều trị: thuốc phác đồ cho triệu chưng và chẩn đoán.
 - [MSD](https://www.msdmanuals.com/vi) - Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899.
+- [Thư viện y](https://thuvieny.com) - Thư viện Đại học Y.
 
 ## Sản
 
