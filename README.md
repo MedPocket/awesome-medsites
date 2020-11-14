@@ -2,14 +2,15 @@ Danh sách các trang web hữu ích về y khoa.
 
 ## Mục lục
 
-- [Tổng hợp](#tổng-hợp)
+- [Cơ sở](#cơ-sở)
 - [Sản](#sản)
 - [Từ điển Y khoa](#từ-điển-y-khoa)
 
-## Tổng hợp
+## Cơ sở
 
 - [Điều trị](https://www.dieutri.vn) - Điều trị: thuốc phác đồ cho triệu chưng và chẩn đoán.
 - [MSD](https://www.msdmanuals.com/vi) - Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899.
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov) - PubMed® comprises more than 30 million citations for biomedical literature from MEDLINE, life science journals, and online books.
 - [Thư viện y](https://thuvieny.com) - Thư viện Đại học Y.
 
 ## Sản
