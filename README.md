@@ -4,6 +4,7 @@ Danh sách các trang web hữu ích về y khoa.
 
 - [Cơ sở](#cơ-sở)
 - [Sản](#sản)
+- [YouTube](#youtube)
 - [Từ điển Y khoa](#từ-điển-y-khoa)
 
 ## Cơ sở
@@ -18,6 +19,9 @@ Danh sách các trang web hữu ích về y khoa.
 - [FIGO](https://www.figo.org) - The International Federation of Gynecology and Obstetrics.
 - [The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity that aims to improve the health of pregnant women and their babies through research and training in fetal medicine.
 - [Perinatology.com](http://perinatology.com)
+
+## YouTube
+- [OsmosisVietnamese](https://www.youtube.com/channel/UCj4fwpXgw-jyiZ4TPAdChbw)
 
 ## Từ điển Y khoa
 
