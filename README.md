@@ -20,6 +20,7 @@ Danh sách các trang web hữu ích về y khoa.
 - [HOREM](http://hosrem.org.vn) - HỘI Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh.
 - [The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity that aims to improve the health of pregnant women and their babies through research and training in fetal medicine.
 - [Perinatology.com](http://perinatology.com)
+- [Sản Phụ Khoa HMU 2020](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4) - Video bài giảng Sản Phụ Khoa Y Hà Nội 2020.
 
 ## YouTube
 - [OsmosisVietnamese](https://www.youtube.com/channel/UCj4fwpXgw-jyiZ4TPAdChbw)
