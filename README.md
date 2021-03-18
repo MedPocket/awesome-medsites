@@ -1,4 +1,6 @@
-Danh sách các trang web hữu ích về y khoa.
+# Website Y khoa huữ ích
+
+[![Lint](https://github.com/MedPocket/awesome-medsites/actions/workflows/action.yml/badge.svg)](https://github.com/MedPocket/awesome-medsites/actions/workflows/action.yml)
 
 ## Mục lục
 
