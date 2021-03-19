@@ -1,6 +1,6 @@
-# Website Y khoa huữ ích
+# Các trang Y khoa
 
-[![Lint](https://github.com/MedPocket/awesome-medsites/actions/workflows/action.yml/badge.svg)](https://github.com/MedPocket/awesome-medsites/actions/workflows/action.yml)
+[![Lint](https://github.com/MedPocket/awesome-medsites/actions/workflows/lint.yml/badge.svg)](https://github.com/MedPocket/awesome-medsites/actions/workflows/lint.yml)
 
 ## Mục lục
 
