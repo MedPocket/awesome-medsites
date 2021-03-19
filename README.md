@@ -19,7 +19,7 @@
 ## Sản
 
 - [FIGO](https://www.figo.org) - The International Federation of Gynecology and Obstetrics
-- [HOREM](http://hosrem.org.vn) - HỘI Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh
+- [HOREM](http://hosrem.org.vn) - Hội Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh
 - [The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity
 - [Perinatology.com](http://perinatology.com)
 - [Sản Phụ Khoa HMU 2020](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4) - Video bài giảng Sản Phụ Khoa Y Hà Nội 2020
