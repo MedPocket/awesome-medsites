@@ -21,4 +21,4 @@ jobs:
         with:
           node-version: '12.x'
       - run: npm install -g markdownlint-cli@0.25.0
-      - run: markdownlint '**/*.md' -c .markdownlint.jsonc
+      - run: markdownlint '**/*.md' -c .github/workflows/mlc_config.json
