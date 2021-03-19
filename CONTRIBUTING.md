@@ -4,10 +4,8 @@ Tôi luôn chào mừng sự đóng góp của các bạn để phát triển d�
 
 ## Hướng dẫn
 
-- Thêm dự án này vào tài khoản GitHub của bạn.
-- Thêm đường dẫn: `- [Tên trang web](http://example.com/) - Miêu tả ngắn về trang web.`
-    - Miêu tả ngắn gon.
-    - Kết thúc miêu tả với dẫu`.`.
-- Thêm một mục mới nếu cần. Hãy nhớ chắc chắn thêm mục mới này vào phần MỤC LỤC.
-- Kiểm tra lại chính tả.
-- Gửi đề xuất.
+* Thêm dự án này vào tài khoản GitHub của bạn.
+* Thêm đường dẫn `- [Tên trang web](http://example.com/) - Miêu tả ngắn về trang web.`
+* Thêm một mục mới nếu cần. Hãy nhớ chắc chắn thêm mục mới này vào phần MỤC LỤC.
+* Kiểm tra lại chính tả.
+* Gửi đề xuất.
