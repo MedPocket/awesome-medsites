@@ -6,6 +6,7 @@
 
 - [Cơ sở](#cơ-sở)
 - [Sản](#sản)
+- [Nhi](#nhi)
 - [YouTube](#youtube)
 - [Từ điển Y khoa](#từ-điển-y-khoa)
 
@@ -23,6 +24,10 @@
 - [The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity
 - [Perinatology.com](http://perinatology.com)
 - [Sản Phụ Khoa HMU 2020](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4) - Video bài giảng Sản Phụ Khoa Y Hà Nội 2020
+
+## Nhi
+
+- [JPRP](https://jprp.vn/index.php/JPRP) - Tạp chí Nghiên cứu và Thực hành Nhi khoa
 
 ## YouTube
 
