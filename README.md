@@ -1,7 +1,3 @@
-# Các trang Y khoa
-
-[![Lint](https://github.com/MedPocket/awesome-medsites/actions/workflows/lint.yml/badge.svg)](https://github.com/MedPocket/awesome-medsites/actions/workflows/lint.yml)
-
 ## Mục lục
 
 - [Cơ sở](#cơ-sở)
