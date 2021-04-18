@@ -1,11 +1,11 @@
-## Mục lục
+# Mục lục
 
-- [Cơ sở](#cơ-sở)
-- [Nội](#nội)
-- [Sản](#sản)
-- [Nhi](#nhi)
+- [Y học cơ sở](#y-học-cơ-sở)
+- [Nội khoa](#nội-khoa)
+- [Sản khoa](#sản-khoa)
+- [Nhi khoa](#nhi-khoa)
 
-## Cơ sở
+## Y học cơ sở
 
 - [DIỄN ĐÀN BÁC SĨ NỘI TRÚ](https://bacsinoitru.vn) - Càng khó khăn thành công càng ý nghĩa
 - [Điều trị](https://www.dieutri.vn) - Thuốc phác đồ cho triệu chứng và chẩn đoán
@@ -18,12 +18,12 @@
 - [Từ điển Y khoa Medisoft](http://medisoft.com.vn/medic.asp) - Từ điển Anh Việt Y khoa của Medisoft
 - [Từ điển Y khoa Phác đồ chữa bệnh](https://phacdochuabenh.com/tu-dien-y-hoc/tratu.php) - Từ điển Anh Việt Y khoa
 
-## Nội
+## Nội khoa
 
 - [Thầy Thuốc Việt Nam](https://thaythuocvietnam.vn) - Vì sức khỏe người Việt
 - [Tổng hội Y học Việt Nam](http://tonghoiyhoc.vn)
 
-## Sản
+## Sản khoa
 
 - [FIGO](https://www.figo.org) - The International Federation of Gynecology and Obstetrics
 - [HOREM](http://hosrem.org.vn) - Hội Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh
@@ -31,6 +31,6 @@
 - [Perinatology.com](http://perinatology.com)
 - [Sản Phụ Khoa HMU 2020](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4) - Video bài giảng Sản Phụ Khoa Y Hà Nội 2020
 
-## Nhi
+## Nhi khoa
 
 - [JPRP](https://jprp.vn/index.php/JPRP) - Tạp chí Nghiên cứu và Thực hành Nhi khoa
